@@ -16,6 +16,10 @@ namespace Pirates.Telegram.Views
         Left,
         Right
     }
+
+    /// <summary>
+    /// This view can be use to display area when player in open sea
+    /// </summary>
     public class WorldView : IView
     {
 
